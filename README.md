@@ -9,8 +9,11 @@ Displays BMI category based on the calculated result.
 Responsive design for use on mobile and desktop devices.
 # Technologies Used
 HTML5: For structuring the application.
+
 CSS3: For styling the application.
+
 JavaScript: For adding interactivity and performing BMI calculations.
+
 # Usage
 Enter your weight (in kilograms or pounds).
 Enter your height (in meters, centimeters, or feet/inches).
